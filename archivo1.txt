@@ -1,0 +1,3 @@
+Este mensaje corresponde
+al archivo de texto
+archivo1
